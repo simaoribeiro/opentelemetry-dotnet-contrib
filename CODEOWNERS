@@ -4,7 +4,7 @@
 # For anything not explicitly taken by someone else:
 * @open-telemetry/dotnet-contrib-approvers
 
-src/OpenTelemetry.Contrib.Exporter.Stackdriver/                             @open-telemetry/dotnet-contrib-approvers @SergeyKanzhelev
+src/OpenTelemetry.Exporter.Stackdriver/                             @open-telemetry/dotnet-contrib-approvers @SergeyKanzhelev
 src/OpenTelemetry.Contrib.Extensions.AWSXRay/                               @open-telemetry/dotnet-contrib-approvers @srprash @lupengamzn
 src/OpenTelemetry.Contrib.Instrumentation.ElasticsearchClient/              @open-telemetry/dotnet-contrib-approvers @ejsmith
 src/OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore/              @open-telemetry/dotnet-contrib-approvers
@@ -16,7 +16,7 @@ src/OpenTelemetry.Contrib.Instrumentation.MySqlData/                        @ope
 src/OpenTelemetry.Contrib.Extensions.PersistentStorage/                     @open-telemetry/dotnet-contrib-approvers @vishweshbankwar
 src/OpenTelemetry.Contrib.Preview/                                          @open-telemetry/dotnet-contrib-approvers @codeblanch
 
-test/OpenTelemetry.Contrib.Exporter.Stackdriver.Tests/                      @open-telemetry/dotnet-contrib-approvers @SergeyKanzhelev
+test/OpenTelemetry.Exporter.Stackdriver.Tests/                      @open-telemetry/dotnet-contrib-approvers @SergeyKanzhelev
 test/OpenTelemetry.Contrib.Extensions.AWSXRay.Tests/                        @open-telemetry/dotnet-contrib-approvers @srprash @lupengamzn
 test/OpenTelemetry.Contrib.Instrumentation.ElasticsearchClient.Tests/       @open-telemetry/dotnet-contrib-approvers @ejsmith
 test/OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCoreTests/        @open-telemetry/dotnet-contrib-approvers

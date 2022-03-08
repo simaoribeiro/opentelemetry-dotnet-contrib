@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30204.135
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{22DF5DC0-1290-4E83-A9D8-6BB7DE3B3E63}"
 EndProject
@@ -72,13 +72,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E0F52FDB-2
 		test\Directory.Build.targets = test\Directory.Build.targets
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Exporter.Stackdriver", "src\OpenTelemetry.Contrib.Exporter.Stackdriver\OpenTelemetry.Contrib.Exporter.Stackdriver.csproj", "{BAFDB2B7-A8D4-4725-81CB-F69A9C8A362A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Exporter.Stackdriver", "src\OpenTelemetry.Exporter.Stackdriver\OpenTelemetry.Exporter.Stackdriver.csproj", "{BAFDB2B7-A8D4-4725-81CB-F69A9C8A362A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore", "src\OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore\OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore.csproj", "{09525C6C-68B7-405E-B476-23E64D91C11B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Instrumentation.MassTransit", "src\OpenTelemetry.Contrib.Instrumentation.MassTransit\OpenTelemetry.Contrib.Instrumentation.MassTransit.csproj", "{301BFB9F-6D73-4DEE-93D1-75F480816F63}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Exporter.Stackdriver.Tests", "test\OpenTelemetry.Contrib.Exporter.Stackdriver.Tests\OpenTelemetry.Contrib.Exporter.Stackdriver.Tests.csproj", "{11839CC5-F02B-4812-969A-52CDF5FE9394}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Exporter.Stackdriver.Tests", "test\OpenTelemetry.Exporter.Stackdriver.Tests\OpenTelemetry.Exporter.Stackdriver.Tests.csproj", "{11839CC5-F02B-4812-969A-52CDF5FE9394}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Instrumentation.MassTransit.Tests", "test\OpenTelemetry.Contrib.Instrumentation.MassTransit.Tests\OpenTelemetry.Contrib.Instrumentation.MassTransit.Tests.csproj", "{1F4B5983-EA2E-4DAC-8E02-20C0CDA9FA93}"
 EndProject

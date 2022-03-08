@@ -15,7 +15,7 @@
 // </copyright>
 using System;
 
-namespace OpenTelemetry.Contrib.Exporter.Stackdriver.Tests.Shared
+namespace OpenTelemetry.Exporter.Stackdriver.Tests.Shared
 {
     internal class TestExporter<T> : BaseExporter<T>
         where T : class
