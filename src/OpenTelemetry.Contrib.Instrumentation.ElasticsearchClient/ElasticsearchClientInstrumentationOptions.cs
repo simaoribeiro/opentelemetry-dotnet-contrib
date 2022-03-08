@@ -17,7 +17,7 @@
 using System;
 using System.Diagnostics;
 
-namespace OpenTelemetry.Contrib.Instrumentation.ElasticsearchClient
+namespace OpenTelemetry.Instrumentation.ElasticsearchClient
 {
     /// <summary>
     /// Options for Elasticsearch client instrumentation.
