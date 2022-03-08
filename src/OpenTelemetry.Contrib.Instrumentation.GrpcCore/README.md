@@ -15,7 +15,7 @@ semantic RPC specification <https://github.com/open-telemetry/opentelemetry-spec
 ## Installation
 
 ```shell
-dotnet add package OpenTelemetry.Contrib.Instrumentation.GrpcCore
+dotnet add package OpenTelemetry.Instrumentation.GrpcCore
 ```
 
 ## Configuration
