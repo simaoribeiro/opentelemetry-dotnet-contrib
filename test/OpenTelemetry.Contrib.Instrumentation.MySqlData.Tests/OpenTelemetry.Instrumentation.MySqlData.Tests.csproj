@@ -20,7 +20,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\src\OpenTelemetry.Contrib.Instrumentation.MySqlData\OpenTelemetry.Contrib.Instrumentation.MySqlData.csproj" />
+      <ProjectReference Include="..\..\src\OpenTelemetry.Contrib.Instrumentation.MySqlData\OpenTelemetry.Instrumentation.MySqlData.csproj" />
     </ItemGroup>
 
 </Project>

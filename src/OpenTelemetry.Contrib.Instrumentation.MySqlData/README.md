@@ -5,16 +5,16 @@ This is an
 which instruments [MySql.Data](https://www.nuget.org/packages/MySql.Data)
 and collects telemetry about database operations.
 
-## Steps to enable OpenTelemetry.Contrib.Instrumentation.MySqlData
+## Steps to enable OpenTelemetry.Instrumentation.MySqlData
 
 ### Step 1: Install Package
 
 Add a reference to the
-[`OpenTelemetry.Contrib.Instrumentation.MySqlData`](https://www.nuget.org/packages/OpenTelemetry.Instrumentation.MySqlData)
+[`OpenTelemetry.Instrumentation.MySqlData`](https://www.nuget.org/packages/OpenTelemetry.Instrumentation.MySqlData)
 package. Also, add any other instrumentations & exporters you will need.
 
 ```shell
-dotnet add package OpenTelemetry.Contrib.Instrumentation.MySqlData
+dotnet add package OpenTelemetry.Instrumentation.MySqlData
 ```
 
 ### Step 2: Enable MySqlData Instrumentation at application startup

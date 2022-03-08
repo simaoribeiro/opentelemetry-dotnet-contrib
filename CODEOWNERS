@@ -12,7 +12,7 @@ src/OpenTelemetry.Contrib.Instrumentation.GrpcCore/                         @ope
 src/OpenTelemetry.Contrib.Instrumentation.MassTransit/                      @open-telemetry/dotnet-contrib-approvers @alexvaluyskiy
 src/OpenTelemetry.Contrib.Instrumentation.Owin/                             @open-telemetry/dotnet-contrib-approvers @codeblanch
 src/OpenTelemetry.Contrib.Instrumentation.Wcf/                              @open-telemetry/dotnet-contrib-approvers @codeblanch
-src/OpenTelemetry.Contrib.Instrumentation.MySqlData/                        @open-telemetry/dotnet-contrib-approvers @moonheart
+src/OpenTelemetry.Instrumentation.MySqlData/                        @open-telemetry/dotnet-contrib-approvers @moonheart
 src/OpenTelemetry.Contrib.Extensions.PersistentStorage/                     @open-telemetry/dotnet-contrib-approvers @vishweshbankwar
 src/OpenTelemetry.Contrib.Instrumentation.Quartz/                           @open-telemetry/dotnet-contrib-approvers @maldago
 src/OpenTelemetry.Contrib.Preview/                                          @open-telemetry/dotnet-contrib-approvers @codeblanch
@@ -25,7 +25,7 @@ test/OpenTelemetry.Contrib.Instrumentation.GrpcCore.Tests/                  @ope
 test/OpenTelemetry.Contrib.Instrumentation.MassTransit.Tests/               @open-telemetry/dotnet-contrib-approvers @alexvaluyskiy
 test/OpenTelemetry.Contrib.Instrumentation.Owin.Tests/                      @open-telemetry/dotnet-contrib-approvers @codeblanch
 test/OpenTelemetry.Contrib.Instrumentation.Wcf.Tests/                       @open-telemetry/dotnet-contrib-approvers @codeblanch
-test/OpenTelemetry.Contrib.Instrumentation.MySqlData.Tests/                 @open-telemetry/dotnet-contrib-approvers @moonheart
+test/OpenTelemetry.Instrumentation.MySqlData.Tests/                 @open-telemetry/dotnet-contrib-approvers @moonheart
 test/OpenTelemetry.Contrib.Extensions.PersistentStorage.Tests/              @open-telemetry/dotnet-contrib-approvers @vishweshbankwar
 src/OpenTelemetry.Contrib.Instrumentation.Quartz.Tests/                     @open-telemetry/dotnet-contrib-approvers @maldago
 test/OpenTelemetry.Contrib.Preview.Tests/                                   @open-telemetry/dotnet-contrib-approvers @codeblanch
