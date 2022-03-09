@@ -17,7 +17,7 @@
 using System;
 using System.Web.Http;
 
-namespace OpenTelemetry.Contrib.Instrumentation.Owin.Tests.Controllers
+namespace OpenTelemetry.Instrumentation.Owin.Tests.Controllers
 {
     public class TestController : ApiController
     {

@@ -16,7 +16,7 @@
 
 using System.Diagnostics;
 
-namespace OpenTelemetry.Contrib.Instrumentation.Owin
+namespace OpenTelemetry.Instrumentation.Owin
 {
     /// <summary>
     /// Describes the possible events fired when enriching an <see cref="Activity"/>.

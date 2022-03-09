@@ -151,13 +151,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Exten
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Extensions.AzureMonitor.Tests", "test\OpenTelemetry.Contrib.Extensions.AzureMonitor.Tests\OpenTelemetry.Contrib.Extensions.AzureMonitor.Tests.csproj", "{771651AA-010F-4FF6-9CB2-BAFFE5E04FC2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Instrumentation.Owin", "src\OpenTelemetry.Contrib.Instrumentation.Owin\OpenTelemetry.Contrib.Instrumentation.Owin.csproj", "{530255C1-D130-4B43-981D-911E54F7C787}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Instrumentation.Owin", "src\OpenTelemetry.Contrib.Instrumentation.Owin\OpenTelemetry.Instrumentation.Owin.csproj", "{530255C1-D130-4B43-981D-911E54F7C787}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "owin", "owin", "{8D11A34C-D0EF-4DE1-8230-32168E67044D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examples.Owin", "examples\owin\Examples.Owin.csproj", "{6B3AA3F2-89A7-433F-918A-1E5E6AAF8423}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Instrumentation.Owin.Tests", "test\OpenTelemetry.Contrib.Instrumentation.Owin.Tests\OpenTelemetry.Contrib.Instrumentation.Owin.Tests.csproj", "{D52558C8-B7BF-4F59-A0FA-9AA629E68012}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Instrumentation.Owin.Tests", "test\OpenTelemetry.Contrib.Instrumentation.Owin.Tests\OpenTelemetry.Instrumentation.Owin.Tests.csproj", "{D52558C8-B7BF-4F59-A0FA-9AA629E68012}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Extensions.PersistentStorage", "src\OpenTelemetry.Contrib.Extensions.PersistentStorage\OpenTelemetry.Contrib.Extensions.PersistentStorage.csproj", "{433C59A3-D535-421E-BA7F-9BCE0D4A3D25}"
 EndProject
