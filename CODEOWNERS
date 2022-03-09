@@ -9,7 +9,7 @@ src/OpenTelemetry.Contrib.Extensions.AWSXRay/                               @ope
 src/OpenTelemetry.Instrumentation.ElasticsearchClient/              @open-telemetry/dotnet-contrib-approvers @ejsmith
 src/OpenTelemetry.Instrumentation.EntityFrameworkCore/              @open-telemetry/dotnet-contrib-approvers
 src/OpenTelemetry.Instrumentation.GrpcCore/                         @open-telemetry/dotnet-contrib-approvers @pcwiese
-src/OpenTelemetry.Contrib.Instrumentation.MassTransit/                      @open-telemetry/dotnet-contrib-approvers @alexvaluyskiy
+src/OpenTelemetry.Instrumentation.MassTransit/                      @open-telemetry/dotnet-contrib-approvers @alexvaluyskiy
 src/OpenTelemetry.Instrumentation.Owin/                             @open-telemetry/dotnet-contrib-approvers @codeblanch
 src/OpenTelemetry.Contrib.Instrumentation.Wcf/                              @open-telemetry/dotnet-contrib-approvers @codeblanch
 src/OpenTelemetry.Instrumentation.MySqlData/                        @open-telemetry/dotnet-contrib-approvers @moonheart
@@ -22,7 +22,7 @@ test/OpenTelemetry.Contrib.Extensions.AWSXRay.Tests/                        @ope
 test/OpenTelemetry.Instrumentation.ElasticsearchClient.Tests/       @open-telemetry/dotnet-contrib-approvers @ejsmith
 test/OpenTelemetry.Instrumentation.EntityFrameworkCoreTests/        @open-telemetry/dotnet-contrib-approvers
 test/OpenTelemetry.Instrumentation.GrpcCore.Tests/                  @open-telemetry/dotnet-contrib-approvers @pcwiese
-test/OpenTelemetry.Contrib.Instrumentation.MassTransit.Tests/               @open-telemetry/dotnet-contrib-approvers @alexvaluyskiy
+test/OpenTelemetry.Instrumentation.MassTransit.Tests/               @open-telemetry/dotnet-contrib-approvers @alexvaluyskiy
 test/OpenTelemetry.Instrumentation.Owin.Tests/                      @open-telemetry/dotnet-contrib-approvers @codeblanch
 test/OpenTelemetry.Contrib.Instrumentation.Wcf.Tests/                       @open-telemetry/dotnet-contrib-approvers @codeblanch
 test/OpenTelemetry.Instrumentation.MySqlData.Tests/                 @open-telemetry/dotnet-contrib-approvers @moonheart

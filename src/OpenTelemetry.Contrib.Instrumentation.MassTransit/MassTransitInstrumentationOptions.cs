@@ -15,9 +15,9 @@
 // </copyright>
 
 using System.Collections.Generic;
-using OpenTelemetry.Contrib.Instrumentation.MassTransit.Implementation;
+using OpenTelemetry.Instrumentation.MassTransit.Implementation;
 
-namespace OpenTelemetry.Contrib.Instrumentation.MassTransit
+namespace OpenTelemetry.Instrumentation.MassTransit
 {
     /// <summary>
     /// Options for <see cref="MassTransitInstrumentation"/>.

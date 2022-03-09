@@ -7,7 +7,7 @@ events emitted by [MassTransit](https://masstransit-project.com/) library.
 ## Installation
 
 ```shell
-dotnet add package OpenTelemetry.Contrib.Instrumentation.MassTransit
+dotnet add package OpenTelemetry.Instrumentation.MassTransit
 ```
 
 ## Configuration

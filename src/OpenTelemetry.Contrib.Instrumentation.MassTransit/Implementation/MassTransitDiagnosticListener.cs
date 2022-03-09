@@ -22,7 +22,7 @@ using System.Reflection;
 using OpenTelemetry.Instrumentation;
 using OpenTelemetry.Trace;
 
-namespace OpenTelemetry.Contrib.Instrumentation.MassTransit.Implementation
+namespace OpenTelemetry.Instrumentation.MassTransit.Implementation
 {
     internal class MassTransitDiagnosticListener : ListenerHandler
     {
