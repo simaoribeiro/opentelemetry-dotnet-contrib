@@ -159,9 +159,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examples.Owin", "examples\o
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Instrumentation.Owin.Tests", "test\OpenTelemetry.Contrib.Instrumentation.Owin.Tests\OpenTelemetry.Instrumentation.Owin.Tests.csproj", "{D52558C8-B7BF-4F59-A0FA-9AA629E68012}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Extensions.PersistentStorage", "src\OpenTelemetry.Contrib.Extensions.PersistentStorage\OpenTelemetry.Contrib.Extensions.PersistentStorage.csproj", "{433C59A3-D535-421E-BA7F-9BCE0D4A3D25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Extensions.PersistentStorage", "src\OpenTelemetry.Contrib.Extensions.PersistentStorage\OpenTelemetry.Extensions.PersistentStorage.csproj", "{433C59A3-D535-421E-BA7F-9BCE0D4A3D25}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Extensions.PersistentStorage.Tests", "test\OpenTelemetry.Contrib.Extensions.PersistentStorage.Tests\OpenTelemetry.Contrib.Extensions.PersistentStorage.Tests.csproj", "{72EBA81D-2933-417C-8F21-D4CFFD72F530}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Extensions.PersistentStorage.Tests", "test\OpenTelemetry.Contrib.Extensions.PersistentStorage.Tests\OpenTelemetry.Extensions.PersistentStorage.Tests.csproj", "{72EBA81D-2933-417C-8F21-D4CFFD72F530}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Instrumentation.Runtime", "src\OpenTelemetry.Contrib.Instrumentation.Runtime\OpenTelemetry.Instrumentation.Runtime.csproj", "{F01E8C75-2791-4DBE-BD7A-5510871EBF56}"
 EndProject
