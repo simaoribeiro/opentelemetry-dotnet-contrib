@@ -15,10 +15,10 @@
 // </copyright>
 
 using System;
-using OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore.Implementation;
+using OpenTelemetry.Instrumentation.EntityFrameworkCore.Implementation;
 using OpenTelemetry.Instrumentation;
 
-namespace OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore
+namespace OpenTelemetry.Instrumentation.EntityFrameworkCore
 {
     internal class EntityFrameworkInstrumentation : IDisposable
     {

@@ -6,7 +6,7 @@ Automatically instruments the outgoing database requests from
 ## Installation
 
 ```shell
-dotnet add package OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore
+dotnet add package OpenTelemetry.Instrumentation.EntityFrameworkCore
 ```
 
 ## References

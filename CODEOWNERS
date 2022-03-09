@@ -7,7 +7,7 @@
 src/OpenTelemetry.Contrib.Exporter.Stackdriver/                             @open-telemetry/dotnet-contrib-approvers @SergeyKanzhelev
 src/OpenTelemetry.Contrib.Extensions.AWSXRay/                               @open-telemetry/dotnet-contrib-approvers @srprash @lupengamzn
 src/OpenTelemetry.Instrumentation.ElasticsearchClient/              @open-telemetry/dotnet-contrib-approvers @ejsmith
-src/OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore/              @open-telemetry/dotnet-contrib-approvers
+src/OpenTelemetry.Instrumentation.EntityFrameworkCore/              @open-telemetry/dotnet-contrib-approvers
 src/OpenTelemetry.Instrumentation.GrpcCore/                         @open-telemetry/dotnet-contrib-approvers @pcwiese
 src/OpenTelemetry.Contrib.Instrumentation.MassTransit/                      @open-telemetry/dotnet-contrib-approvers @alexvaluyskiy
 src/OpenTelemetry.Instrumentation.Owin/                             @open-telemetry/dotnet-contrib-approvers @codeblanch
@@ -20,7 +20,7 @@ src/OpenTelemetry.Contrib.Preview/                                          @ope
 test/OpenTelemetry.Contrib.Exporter.Stackdriver.Tests/                      @open-telemetry/dotnet-contrib-approvers @SergeyKanzhelev
 test/OpenTelemetry.Contrib.Extensions.AWSXRay.Tests/                        @open-telemetry/dotnet-contrib-approvers @srprash @lupengamzn
 test/OpenTelemetry.Instrumentation.ElasticsearchClient.Tests/       @open-telemetry/dotnet-contrib-approvers @ejsmith
-test/OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCoreTests/        @open-telemetry/dotnet-contrib-approvers
+test/OpenTelemetry.Instrumentation.EntityFrameworkCoreTests/        @open-telemetry/dotnet-contrib-approvers
 test/OpenTelemetry.Instrumentation.GrpcCore.Tests/                  @open-telemetry/dotnet-contrib-approvers @pcwiese
 test/OpenTelemetry.Contrib.Instrumentation.MassTransit.Tests/               @open-telemetry/dotnet-contrib-approvers @alexvaluyskiy
 test/OpenTelemetry.Instrumentation.Owin.Tests/                      @open-telemetry/dotnet-contrib-approvers @codeblanch

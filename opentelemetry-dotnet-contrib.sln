@@ -75,7 +75,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E0F52FDB-2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Exporter.Stackdriver", "src\OpenTelemetry.Contrib.Exporter.Stackdriver\OpenTelemetry.Contrib.Exporter.Stackdriver.csproj", "{BAFDB2B7-A8D4-4725-81CB-F69A9C8A362A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore", "src\OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore\OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore.csproj", "{09525C6C-68B7-405E-B476-23E64D91C11B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Instrumentation.EntityFrameworkCore", "src\OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore\OpenTelemetry.Instrumentation.EntityFrameworkCore.csproj", "{09525C6C-68B7-405E-B476-23E64D91C11B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Instrumentation.MassTransit", "src\OpenTelemetry.Contrib.Instrumentation.MassTransit\OpenTelemetry.Contrib.Instrumentation.MassTransit.csproj", "{301BFB9F-6D73-4DEE-93D1-75F480816F63}"
 EndProject
@@ -141,7 +141,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Previ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Preview.Tests", "test\OpenTelemetry.Contrib.Preview.Tests\OpenTelemetry.Contrib.Preview.Tests.csproj", "{D2C68560-C252-41A9-B742-2CEB7D760E0F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore.Tests", "test\OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore.Tests\OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore.Tests.csproj", "{4172D671-3AAC-443F-9EB0-A6608B154AF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Instrumentation.EntityFrameworkCore.Tests", "test\OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore.Tests\OpenTelemetry.Instrumentation.EntityFrameworkCore.Tests.csproj", "{4172D671-3AAC-443F-9EB0-A6608B154AF0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTelemetry.Instrumentation.Quartz", "src\OpenTelemetry.Instrumentation.Quartz\OpenTelemetry.Instrumentation.Quartz.csproj", "{2CFC0D07-7AEC-4BC3-96C4-A06A38DBF6DF}"
 EndProject
