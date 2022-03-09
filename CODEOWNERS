@@ -11,7 +11,7 @@ src/OpenTelemetry.Instrumentation.EntityFrameworkCore/              @open-teleme
 src/OpenTelemetry.Instrumentation.GrpcCore/                         @open-telemetry/dotnet-contrib-approvers @pcwiese
 src/OpenTelemetry.Instrumentation.MassTransit/                      @open-telemetry/dotnet-contrib-approvers @alexvaluyskiy
 src/OpenTelemetry.Instrumentation.Owin/                             @open-telemetry/dotnet-contrib-approvers @codeblanch
-src/OpenTelemetry.Contrib.Instrumentation.Wcf/                              @open-telemetry/dotnet-contrib-approvers @codeblanch
+src/OpenTelemetry.Instrumentation.Wcf/                              @open-telemetry/dotnet-contrib-approvers @codeblanch
 src/OpenTelemetry.Instrumentation.MySqlData/                        @open-telemetry/dotnet-contrib-approvers @moonheart
 src/OpenTelemetry.Contrib.Extensions.PersistentStorage/                     @open-telemetry/dotnet-contrib-approvers @vishweshbankwar
 src/OpenTelemetry.Contrib.Instrumentation.Quartz/                           @open-telemetry/dotnet-contrib-approvers @maldago
@@ -24,7 +24,7 @@ test/OpenTelemetry.Instrumentation.EntityFrameworkCoreTests/        @open-teleme
 test/OpenTelemetry.Instrumentation.GrpcCore.Tests/                  @open-telemetry/dotnet-contrib-approvers @pcwiese
 test/OpenTelemetry.Instrumentation.MassTransit.Tests/               @open-telemetry/dotnet-contrib-approvers @alexvaluyskiy
 test/OpenTelemetry.Instrumentation.Owin.Tests/                      @open-telemetry/dotnet-contrib-approvers @codeblanch
-test/OpenTelemetry.Contrib.Instrumentation.Wcf.Tests/                       @open-telemetry/dotnet-contrib-approvers @codeblanch
+test/OpenTelemetry.Instrumentation.Wcf.Tests/                       @open-telemetry/dotnet-contrib-approvers @codeblanch
 test/OpenTelemetry.Instrumentation.MySqlData.Tests/                 @open-telemetry/dotnet-contrib-approvers @moonheart
 test/OpenTelemetry.Contrib.Extensions.PersistentStorage.Tests/              @open-telemetry/dotnet-contrib-approvers @vishweshbankwar
 src/OpenTelemetry.Contrib.Instrumentation.Quartz.Tests/                     @open-telemetry/dotnet-contrib-approvers @maldago
