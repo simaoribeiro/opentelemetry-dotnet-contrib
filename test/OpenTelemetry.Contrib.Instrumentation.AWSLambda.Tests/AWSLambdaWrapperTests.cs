@@ -19,12 +19,12 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Moq;
-using OpenTelemetry.Contrib.Instrumentation.AWSLambda.Implementation;
+using OpenTelemetry.Instrumentation.AWSLambda.Implementation;
 using OpenTelemetry.Resources;
 using OpenTelemetry.Trace;
 using Xunit;
 
-namespace OpenTelemetry.Contrib.Instrumentation.AWSLambda.Tests
+namespace OpenTelemetry.Instrumentation.AWSLambda.Tests
 {
     public class AWSLambdaWrapperTests
     {

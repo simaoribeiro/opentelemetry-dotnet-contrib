@@ -20,7 +20,7 @@ using System.Threading.Tasks;
 using Amazon.Lambda.Core;
 using OpenTelemetry.Trace;
 
-namespace OpenTelemetry.Contrib.Instrumentation.AWSLambda.Implementation
+namespace OpenTelemetry.Instrumentation.AWSLambda.Implementation
 {
     /// <summary>
     /// Wrapper class for AWS Lambda handlers.

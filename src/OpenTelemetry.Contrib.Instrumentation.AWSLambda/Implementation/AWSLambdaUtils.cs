@@ -20,7 +20,7 @@ using System.Diagnostics;
 using Amazon.Lambda.Core;
 using OpenTelemetry.Contrib.Extensions.AWSXRay.Trace;
 
-namespace OpenTelemetry.Contrib.Instrumentation.AWSLambda.Implementation
+namespace OpenTelemetry.Instrumentation.AWSLambda.Implementation
 {
     /// <summary>
     /// Class for getting AWS Lambda related attributes.

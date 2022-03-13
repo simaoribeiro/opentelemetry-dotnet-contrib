@@ -15,7 +15,7 @@
 // </copyright>
 
 using System;
-using OpenTelemetry.Contrib.Instrumentation.AWSLambda.Implementation;
+using OpenTelemetry.Instrumentation.AWSLambda.Implementation;
 using OpenTelemetry.Resources;
 
 namespace OpenTelemetry.Trace
